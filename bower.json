@@ -23,6 +23,7 @@
     "jquery": "^3.1.*",
     "bootstrap": "^3.3.*",
     "jquery-easyui": "*",
-    "vue": "^2.1.10"
+    "vue": "^2.1.10",
+    "handlebars": "^4.0.5"
   }
 }
