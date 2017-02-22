@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "description": "CRUD - Manager",
+  "main": "",
+  "authors": [
+    "snake"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor/",
+    "test",
+    "tests"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "jquery": "^3.1.*",
+    "bootstrap": "^3.3.*",
+    "jquery-easyui": "*",
+    "vue": "^2.1.10"
+  }
+}
