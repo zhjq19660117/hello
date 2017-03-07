@@ -1,6 +1,6 @@
 [![Snake Logo](http://localhost:3071/logo/snake1966.png)](http://localhost:3071/)
 
-  å­¦ä¹  [nodejs](http://nodejs.org), [express](https://github.com/expressjs/express), [hbs](http://handlebarsjs.com), mysql, angular, bootstrap.
+  Ñ§Ï° [nodejs](http://nodejs.org), [express](https://github.com/expressjs/express), [hbs](http://handlebarsjs.com), mysql, angular, bootstrap.
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
@@ -8,17 +8,17 @@
   [![Windows Build][appveyor-image]][appveyor-url]
   [![Test Coverage][coveralls-image]][coveralls-url]
   
-## å­¦ä¹ æçº²
+## Ñ§Ï°Ìá¸Ù
 
-  * Nodejs çš„å®‰è£…ã€å¼€å‘ã€ç»éªŒåˆ†äº«
-  * Express çš„ç²¾è¦è§£æ
-  * HBS/Handlebars æ¨¡æ¿çš„åŠŸèƒ½è¯¦è§£
-  * Mysql åœ¨Nodejsä¸­çš„ä½¿ç”¨
-  * Angular çš„å…¥é—¨
-  * Bootstrap çš„å®æˆ˜
-  * npmã€bower å’Œ grunt çš„ç”¨æ³•
+  * Nodejs µÄ°²×°¡¢¿ª·¢¡¢¾­Ñé·ÖÏí
+  * Express µÄ¾«Òª½âÎö
+  * HBS/Handlebars Ä£°åµÄ¹¦ÄÜÏê½â
+  * Mysql ÔÚNodejsÖĞµÄÊ¹ÓÃ
+  * Angular µÄÈëÃÅ
+  * Bootstrap µÄÊµÕ½
+  * npm¡¢bower ºÍ grunt µÄÓÃ·¨
 
-## ç¬¬ä¸€éƒ¨åˆ†ï¼šNodejs çš„å®‰è£…ã€å¼€å‘ã€ç»éªŒåˆ†äº«
+## µÚÒ»²¿·Ö£ºNodejs µÄ°²×°¡¢¿ª·¢¡¢¾­Ñé·ÖÏí
 
 
 
@@ -41,32 +41,32 @@
 ```
 
 
-## ç¬¬äºŒéƒ¨åˆ†ï¼šExpress çš„ç²¾è¦è§£æ
+## µÚ¶ş²¿·Ö£ºExpress µÄ¾«Òª½âÎö
 
 
 
-## ç¬¬ä¸‰éƒ¨åˆ†ï¼šHBS/Handlebars æ¨¡æ¿çš„åŠŸèƒ½è¯¦è§£
-
-
-
-
-## ç¬¬å››éƒ¨åˆ†ï¼šMysql åœ¨Nodejsä¸­çš„ä½¿ç”¨
+## µÚÈı²¿·Ö£ºHBS/Handlebars Ä£°åµÄ¹¦ÄÜÏê½â
 
 
 
 
-## ç¬¬äº”éƒ¨åˆ†ï¼šMysql åœ¨Nodejsä¸­çš„ä½¿ç”¨
+## µÚËÄ²¿·Ö£ºMysql ÔÚNodejsÖĞµÄÊ¹ÓÃ
 
 
 
-## ç¬¬å…­éƒ¨åˆ†ï¼šAngular çš„å…¥é—¨
+
+## µÚÎå²¿·Ö£ºMysql ÔÚNodejsÖĞµÄÊ¹ÓÃ
 
 
 
-## ç¬¬ä¸ƒéƒ¨åˆ†ï¼šBootstrap çš„å®æˆ˜
+## µÚÁù²¿·Ö£ºAngular µÄÈëÃÅ
 
 
-## ç¬¬å…«éƒ¨åˆ†ï¼šnpmã€bower å’Œ grunt çš„ç”¨æ³•
+
+## µÚÆß²¿·Ö£ºBootstrap µÄÊµÕ½
+
+
+## µÚ°Ë²¿·Ö£ºnpm¡¢bower ºÍ grunt µÄÓÃ·¨
 
 
 
